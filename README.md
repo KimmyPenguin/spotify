@@ -1,4 +1,3 @@
-# group8
 # MIST4610-Project1-Group8
 
 ## Team Name: 
